@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-07T14:36:28 IST" name="Suite" finished-at="2022-07-07T14:36:45 IST" duration-ms="16604">
+    <groups>
+    </groups>
+    <test started-at="2022-07-07T14:36:28 IST" name="Test" finished-at="2022-07-07T14:36:45 IST" duration-ms="16604">
+      <class name="com.prohealth.testscripts.TC_001_LoginPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.prohealth.testscripts.TC_001_LoginPage@5d534f5d]" started-at="2022-07-07T14:36:28 IST" name="setup" finished-at="2022-07-07T14:36:38 IST" duration-ms="9658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:com.prohealth.testscripts.TC_001_LoginPage@5d534f5d]" started-at="2022-07-07T14:36:38 IST" name="login" finished-at="2022-07-07T14:36:45 IST" duration-ms="6874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.prohealth.testscripts.TC_001_LoginPage@5d534f5d]" started-at="2022-07-07T14:36:45 IST" name="teardown" finished-at="2022-07-07T14:36:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.prohealth.testscripts.TC_001_LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
